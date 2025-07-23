@@ -116,7 +116,7 @@ body {
   }
 
   .main-paragraph {
-    font-size: 12px;
+    font-size: 8px;
     color: #fff;
   }
 }
@@ -132,5 +132,9 @@ body {
   }
   .main-paragraph {
     font-size: 14px;
+  }
+
+  .main-contact {
+    font-size: 12px;
   }
 }
